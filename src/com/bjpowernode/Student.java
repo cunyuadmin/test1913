@@ -7,6 +7,6 @@ package com.bjpowernode;
  */
 public class Student {
     private String name;
-    private int age;
     private String Address;
+    private String phone;
 }
